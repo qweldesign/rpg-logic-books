@@ -1,7 +1,7 @@
 {
   "name": "books",
   "version": "1.0.0",
-  "description": "",
+  "description": "Manuscript source for the RPG.LOGIC Zenn book series — domain modeling for a TypeScript/React RPG combat simulator.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
