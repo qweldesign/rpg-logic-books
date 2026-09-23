@@ -10,6 +10,6 @@
   "author": "QWEL.DESIGN",
   "license": "MIT",
   "dependencies": {
-    "zenn-cli": "^0.5.3"
+    "zenn-cli": "^0.5.4"
   }
 }
