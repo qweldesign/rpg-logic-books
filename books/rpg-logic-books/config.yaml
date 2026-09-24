@@ -4,3 +4,4 @@ topics: ["gamedev", "typescript", "react"]
 published: false
 price: 0
 chapters:
+  - 01-introduction
