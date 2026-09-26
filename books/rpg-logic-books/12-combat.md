@@ -167,3 +167,11 @@ class Combat {
 
 - [DEMO 03 | ターンとログの実装 | RPG.LOGIC](https://rpg-logic.dev/demo/03/)
 - [GitHub - RPG.LOGIC v0.3.0](https://github.com/qweldesign/rpg-logic/releases/tag/v0.3.0)
+
+---
+
+次フェーズでは、戦闘行動の実装として、`Unit/Attack`、`Unit/Defense`、`Action/resolver` などのドメインを実装していきますが、実際の制作ではドメインごとの実装ではなく、各種コマンドごとに各々ドメインの実装を少しずつ進めてきました。  
+本フェーズと次フェーズの間の途中までの実装内容として、攻撃の基本実装 (攻撃判定 → 防御判定 → ダメージ判定 → ダメージ効果 → ダメージ効果適用) までを完了した デモ \[04\] とソースコード (v0.4.0) は、下記URLをご参考ください。
+
+- [DEMO 04 | 攻撃の基本実装 | RPG.LOGIC](https://rpg-logic.dev/demo/04/)
+- [GitHub - RPG.LOGIC v0.4.0](https://github.com/qweldesign/rpg-logic/releases/tag/v0.4.0)
